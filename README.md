@@ -1,4 +1,4 @@
-# elixir-minesweeper
+# Elixir-minesweeper
 
 The purpose of this project:
 - explore the usage of functional programming for application development
